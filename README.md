@@ -13,7 +13,7 @@
 1. 将所有文件复制到Web服务器的根目录
 2. 确保 `includes/data` 目录有写入权限
 3. 通过浏览器访问 `index.php`
-4. 首次访问需要输入授权码
+4. 首次访问需要输入授权码（详情请见https://www.xki0.com/archives/yuan-gong-gong-zuo-shi-chang-guan-li-xi-tong）
 
 ## 默认账户
 
@@ -100,7 +100,6 @@
    - 支持手动解封IP
 3. **授权验证**
    - 系统启动需要授权码验证
-   - 授权服务器：<https://www.xkym.cn/key/{授权码}.php>
    - 返回格式：【正常/封禁】--【有效期】
    - 封禁或过期状态无法使用系统
 4. **源代码保护**
